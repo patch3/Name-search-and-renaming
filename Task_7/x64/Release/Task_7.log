@@ -1,0 +1,7 @@
+﻿  Task_7.cpp
+C:\Users\admin\Desktop\backup\практика\Task_7\Task_7\Task_7.cpp(126,32): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 412 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Task_7.vcxproj -> C:\Users\admin\Desktop\backup\практика\Task_7\x64\Release\Task_7.exe
